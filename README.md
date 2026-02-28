@@ -159,7 +159,7 @@ SOURCE analytics/hotel_db_analytics.sql;
 
 ## Database Design
 
->> The schema follows:
+> The schema follows:
 
 . Third Normal Form (3NF)
 
@@ -169,7 +169,7 @@ SOURCE analytics/hotel_db_analytics.sql;
 
 . Referential integrity enforcement
 
->> Core entities include:
+> Core entities include:
 
 . Guests
 
@@ -201,7 +201,7 @@ SELECT * FROM bill;
 
 ## Learning Objectives
 
->> This project demonstrates:
+> This project demonstrates:
 
 . Relational schema design
 
